@@ -1,6 +1,6 @@
 aws-mock  [![Build Status](https://travis-ci.org/treelogic-swe/aws-mock.png?branch=master)](https://travis-ci.org/treelogic-swe/aws-mock)
 ========
-*Automated testing for [AWS](https://aws.amazon.com).*
+*Automated testing for [AWS EC2 APIs](https://aws.amazon.com).*
 ========
 
 *Used by:*
